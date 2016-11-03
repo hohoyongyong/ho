@@ -13,7 +13,7 @@ public class CColorPoint extends Cpoint {
 		Cpoint a;
 		a = new Cpoint(2,3);
 		System.out.println(a);
-		a = new CColorPoint(3, 4, "red");
+		a = new CColorPoint(3, 4, "reds");
 		System.out.println(a);
 	}
 }
